@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andreas
 - 👀 I’m interested in Python for data analytics and data science
 - 🌱 I’m currently learning Python to integrate it with my existing SQL and SAS knowledge
-- 💞️ I’m looking to collaborate on whatever will boost my Python knowldge and/or give me the chance to use SQL/SAS in combination wih Python
+- 💞️ My main goal is to expand my data science and machine learning knowledge
 - 📫 How to reach me: antreas.conou1990@hotmail.com
 
 <!---
